@@ -40,8 +40,8 @@ DIVIDE(
 ---
 ## 🔍 Key Insights
 
-- 💰 **Profit Peaks**: December tops with ₹10.3K profit, followed by January (₹9.7K) and February (₹8.5K)
-- 📉 **Loss-Making Months**: May (-₹3.7K), June (-₹2.1K), and October (-₹1.4K) recorded negative profits
+- 💰 **Profit Peaks**: November tops with ₹10.3K profit, followed by January (₹9.7K) and February (₹8.5K)
+- 📉 **Loss-Making Months**: May (-₹3.7K), July (-₹2.1K), and September (-₹1.4K) recorded negative profits
 - 🖨️ **Top Sub-Categories by Profit**: Printers (₹8.6K), Bookcases (₹6.5K), Sarees (₹4.1K)
 - 👚 **Most Sold Category**: Clothing leads in quantity (3.5K), well ahead of Electronics (1.2K) and Furniture (0.9K)
 - 🏙️ **Top 3 Cities by Order Volume**: Indore (71), Mumbai (67), Chandigarh (30)
