@@ -36,6 +36,7 @@ DIVIDE(
     SUM('Details (2)'[Amount]),
     DISTINCTCOUNT('Orders (2)'[Order ID])
 )
+```
 ---
 ## 🔍 Key Insights
 
